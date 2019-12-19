@@ -18,9 +18,9 @@ int main()
 
 {
     system("cls");
-    cout<<"Enter the name of the person you want to write: ";
+    cout<<"Enter the name of the person you want to write to: ";
     cin>>first_name;
-    cout<<"How are you "<<first_name<<"?\n";
+    cout<<"Dear "<<first_name<<", How are you?\n";
     cout<<"I am fine.";
     cout<<"I miss you.\n";
     getch();
